@@ -11,6 +11,7 @@ import javax.validation.constraints.Positive;
 import java.net.URI;
 import java.util.List;
 
+@CrossOrigin // http://todobackend.com/에서 테스트하기 위해 추가.
 @RestController
 @RequestMapping("/")
 public class ToDoController {
