@@ -187,3 +187,18 @@ ngrok http 8090
 아래와 같이 해당 주소로 CRUD 요청을 보내면 정상적으로 수행한다.
 
 ![](https://velog.velcdn.com/images/wish17/post/29ff646f-8d81-4e8d-80d3-780c3e4eba7d/image.png)
+
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Java11-007396?style=flat&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/JPA-339933?style=flat&logo=hibernate&logoColor=white" />
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/RestDocs-8CA1AF?style=flat&logo=asciidoctor&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtoken&logoColor=white" />
+    <img src="https://img.shields.io/badge/OAuth2-3EAAAF?style=flat&logo=openid&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/EC2-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/RDS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+</div>
